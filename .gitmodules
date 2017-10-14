@@ -1,0 +1,12 @@
+[submodule "fire-engine"]
+	path = fire-engine
+	url = https://github.com/eqs-nz/fire-engine.git
+[submodule "metaserve"]
+	path = metaserve
+	url = https://github.com/eqs-nz/metaserve.git
+[submodule "crossfire"]
+	path = crossfire
+	url = https://github.com/eqs-nz/crossfire.git
+[submodule "bake"]
+	path = bake
+	url = https://github.com/eqs-nz/bake.git
